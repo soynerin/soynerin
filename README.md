@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Neri](https://soynerin.github.io/) 
+### [Neri](https://soynerin.github.io/) 
 
 ![Profile Image](https://github.com/soynerin/soynerin/blob/main/githubImageProfile.png)
 
