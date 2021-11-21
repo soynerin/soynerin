@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Neri](https://soynerin.github.io/) 
 
 <!--
 **soynerin/soynerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
