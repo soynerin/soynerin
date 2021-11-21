@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm [Neri](https://soynerin.github.io/) 
 
+![Profile Image](https://github.com/soynerin/soynerin/blob/main/githubImageProfile.png)
+
 <!--
 **soynerin/soynerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
