@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" width="430px" src="https://github-readme-stats.vercel.app/api?username=soynerin&show_icons=true&theme=radical" />
+  <img align="center" height="200px" width="440px" src="https://github-readme-stats.vercel.app/api?username=soynerin&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soynerin&layout=compact&theme=radical" />
+  <img align="center" height="200px" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soynerin&layout=compact&theme=radical" />
 </a>
